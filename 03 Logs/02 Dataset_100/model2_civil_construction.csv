@@ -1,0 +1,568 @@
+Rut,Actividad,Timestamp,Tipo alerta,Tipo suspensión,PPA,PPS,Periodo admisión,Tipo admisión,Sexo,Vigencia,Región,Establecimiento educacional,Ptj NEM,Ptj Ranking,Ptj Selección,Preferencia,Puesto ingreso,Estado Civil,Vive con,Sistema de Salud
+1,Alert,01-2019,"28a,28b",,3.4,3.4,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Municipal,530,357,464,1,549,C - Casado,Otros,Isapre Ing Salud S.A.
+1,No Alert,08-2019,,,4.27,5.14,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Municipal,530,357,464,1,549,C - Casado,Otros,Isapre Ing Salud S.A.
+1,Alert,01-2020,28e,,3.75,2.71,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Municipal,530,357,464,1,549,C - Casado,Otros,Isapre Ing Salud S.A.
+1,Alert,08-2020,28e,,3.42,2.42,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Municipal,530,357,464,1,549,C - Casado,Otros,Isapre Ing Salud S.A.
+1,No Alert,01-2021,,,4.03,6.5,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Municipal,530,357,464,1,549,C - Casado,Otros,Isapre Ing Salud S.A.
+1,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Municipal,530,357,464,1,549,C - Casado,Otros,Isapre Ing Salud S.A.
+2,Alert,01-2019,"28a,28b",,3.22,3.22,201920,60 - PSU,M,No vigente,XIV R. de los Rios,Particular Subvencionado,14,437,200,2,286,C - Casado,Hogar de menores,Isapre Fund Salud Trab BcoEsta
+2,Dropout,07-2019,,,,,201920,60 - PSU,M,No vigente,XIV R. de los Rios,Particular Subvencionado,14,437,200,2,286,C - Casado,Hogar de menores,Isapre Fund Salud Trab BcoEsta
+3,Alert,01-2019,"28a,28b",,2.75,2.75,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,659,244,75,1,568,S - Soltero,Solo,
+3,Alert,08-2019,28c,,3.74,4.73,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,659,244,75,1,568,S - Soltero,Solo,
+3,Alert,01-2020,28e,,3.52,3.07,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,659,244,75,1,568,S - Soltero,Solo,
+3,Alert,08-2020,28e,,3.27,2.52,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,659,244,75,1,568,S - Soltero,Solo,
+3,Alert,01-2021,28e,,3.03,2.1,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,659,244,75,1,568,S - Soltero,Solo,
+3,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,659,244,75,1,568,S - Soltero,Solo,
+4,Alert,01-2019,"28a,28b",,2.85,2.85,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Subvencionado,451,775,502,1,73,,Otros parientes,Isapre Consalud
+4,Alert,08-2019,28c,,3.79,4.74,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Subvencionado,451,775,502,1,73,,Otros parientes,Isapre Consalud
+4,Alert,01-2020,28e,,3.27,2.21,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Subvencionado,451,775,502,1,73,,Otros parientes,Isapre Consalud
+4,Alert,08-2020,28e,,3.68,4.91,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Subvencionado,451,775,502,1,73,,Otros parientes,Isapre Consalud
+4,Alert,01-2021,28e,,3.46,2.61,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Subvencionado,451,775,502,1,73,,Otros parientes,Isapre Consalud
+4,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Subvencionado,451,775,502,1,73,,Otros parientes,Isapre Consalud
+5,Alert,01-2019,"28a,28b",,2.52,2.52,201920,60 - PSU,F,Vigente,VII R. del Maule,Particular Subvencionado,508,57,789,1,815,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Vida Tres S.A.
+5,Alert,08-2019,"28c,28d",,2.23,1.94,201920,60 - PSU,F,Vigente,VII R. del Maule,Particular Subvencionado,508,57,789,1,815,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Vida Tres S.A.
+5,Alert,01-2020,28e,,2.39,2.72,201920,60 - PSU,F,Vigente,VII R. del Maule,Particular Subvencionado,508,57,789,1,815,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Vida Tres S.A.
+5,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,F,Vigente,VII R. del Maule,Particular Subvencionado,508,57,789,1,815,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Vida Tres S.A.
+5,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,F,Vigente,VII R. del Maule,Particular Subvencionado,508,57,789,1,815,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Vida Tres S.A.
+5,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,VII R. del Maule,Particular Subvencionado,508,57,789,1,815,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Vida Tres S.A.
+6,Alert,01-2019,"28a,28b",,3.24,3.24,201920,60 - PSU,F,No vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,155,374,182,1,341,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+6,Suspensión,08-2019,,After Alert,,,201920,60 - PSU,F,No vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,155,374,182,1,341,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+6,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,F,No vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,155,374,182,1,341,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+6,Expelled,07-2020,,,,,201920,60 - PSU,F,No vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,155,374,182,1,341,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+7,Alert,01-2019,"28a,28b",,3.19,3.19,201920,60 - PSU,F,Vigente,VIII R. del Biobío,Particular Subvencionado,37,354,224,2,120,S - Soltero,"Con pareja (conyuge, conviv.)",Isapre Ing Salud S.A.
+7,No Alert,08-2019,,,4.26,5.33,201920,60 - PSU,F,Vigente,VIII R. del Biobío,Particular Subvencionado,37,354,224,2,120,S - Soltero,"Con pareja (conyuge, conviv.)",Isapre Ing Salud S.A.
+7,Alert,01-2020,28e,,3.95,3.34,201920,60 - PSU,F,Vigente,VIII R. del Biobío,Particular Subvencionado,37,354,224,2,120,S - Soltero,"Con pareja (conyuge, conviv.)",Isapre Ing Salud S.A.
+7,No Alert,08-2020,,,4.42,5.8,201920,60 - PSU,F,Vigente,VIII R. del Biobío,Particular Subvencionado,37,354,224,2,120,S - Soltero,"Con pareja (conyuge, conviv.)",Isapre Ing Salud S.A.
+7,Suspensión,01-2021,,,,,201920,60 - PSU,F,Vigente,VIII R. del Biobío,Particular Subvencionado,37,354,224,2,120,S - Soltero,"Con pareja (conyuge, conviv.)",Isapre Ing Salud S.A.
+7,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,VIII R. del Biobío,Particular Subvencionado,37,354,224,2,120,S - Soltero,"Con pareja (conyuge, conviv.)",Isapre Ing Salud S.A.
+8,Suspensión,01-2019,,,,,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,426,186,629,2,31,,Otros parientes,
+8,Suspensión,08-2019,,,,,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,426,186,629,2,31,,Otros parientes,
+8,Suspensión,01-2020,,,,,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,426,186,629,2,31,,Otros parientes,
+8,Dropout,07-2020,,,,,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,426,186,629,2,31,,Otros parientes,
+9,Suspensión,01-2019,,,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Pagado,698,631,476,2,73,S - Soltero,Institucion,Isapre Colmena Golden Cross SA
+9,Alert,08-2019,"28a,28b",,2.94,2.94,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Pagado,698,631,476,2,73,S - Soltero,Institucion,Isapre Colmena Golden Cross SA
+9,Alert,01-2020,"28c,28d",,2.4,1.86,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Pagado,698,631,476,2,73,S - Soltero,Institucion,Isapre Colmena Golden Cross SA
+9,Alert,08-2020,28e,,2.39,2.37,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Pagado,698,631,476,2,73,S - Soltero,Institucion,Isapre Colmena Golden Cross SA
+9,Alert,01-2021,28e,,2.43,2.56,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Pagado,698,631,476,2,73,S - Soltero,Institucion,Isapre Colmena Golden Cross SA
+9,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Pagado,698,631,476,2,73,S - Soltero,Institucion,Isapre Colmena Golden Cross SA
+10,Alert,01-2019,"28a,28b",,3.31,3.31,201920,12 - Talentos e Inclusión,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,90,664,211,2,897,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Consalud
+10,Alert,08-2019,"28c,28d",,2.7,2.09,201920,12 - Talentos e Inclusión,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,90,664,211,2,897,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Consalud
+10,No Alert,01-2020,,,4.12,6.95,201920,12 - Talentos e Inclusión,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,90,664,211,2,897,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Consalud
+10,Alert,08-2020,28e,,3.87,3.11,201920,12 - Talentos e Inclusión,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,90,664,211,2,897,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Consalud
+10,Alert,01-2021,28e,,3.55,2.29,201920,12 - Talentos e Inclusión,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,90,664,211,2,897,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Consalud
+10,Taking courses,07-2021,,,,,201920,12 - Talentos e Inclusión,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,90,664,211,2,897,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Consalud
+11,Alert,01-2019,"28a,28b",,2.23,2.23,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Particular Subvencionado,745,201,573,2,387,C - Casado,Solo (Independiente),Isapre Ferrosalud S.A.
+11,No Alert,08-2019,,,4.6,6.97,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Particular Subvencionado,745,201,573,2,387,C - Casado,Solo (Independiente),Isapre Ferrosalud S.A.
+11,Alert,01-2020,28e,,3.75,2.06,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Particular Subvencionado,745,201,573,2,387,C - Casado,Solo (Independiente),Isapre Ferrosalud S.A.
+11,Alert,08-2020,28e,,3.24,1.71,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Particular Subvencionado,745,201,573,2,387,C - Casado,Solo (Independiente),Isapre Ferrosalud S.A.
+11,Alert,01-2021,28e,,3.7,5.52,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Particular Subvencionado,745,201,573,2,387,C - Casado,Solo (Independiente),Isapre Ferrosalud S.A.
+11,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Particular Subvencionado,745,201,573,2,387,C - Casado,Solo (Independiente),Isapre Ferrosalud S.A.
+12,Alert,01-2019,"28a,28b",,1.25,1.25,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,347,716,2,864,U - Acuerdo de Unión Civil,Otros,Isapre Vida Tres S.A.
+12,Alert,08-2019,"28c,28d",,1.16,1.07,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,347,716,2,864,U - Acuerdo de Unión Civil,Otros,Isapre Vida Tres S.A.
+12,Alert,01-2020,28e,,2.69,5.75,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,347,716,2,864,U - Acuerdo de Unión Civil,Otros,Isapre Vida Tres S.A.
+12,Alert,08-2020,28e,,3.47,5.82,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,347,716,2,864,U - Acuerdo de Unión Civil,Otros,Isapre Vida Tres S.A.
+12,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,347,716,2,864,U - Acuerdo de Unión Civil,Otros,Isapre Vida Tres S.A.
+12,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,347,716,2,864,U - Acuerdo de Unión Civil,Otros,Isapre Vida Tres S.A.
+13,Alert,01-2019,"28a,28b",,3.41,3.41,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,644,285,674,1,711,S - Soltero,Solo,Isapre Alemana Salud S.A.
+13,Alert,08-2019,"28c,28d",,2.27,1.14,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,644,285,674,1,711,S - Soltero,Solo,Isapre Alemana Salud S.A.
+13,Alert,01-2020,28e,,2.63,3.33,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,644,285,674,1,711,S - Soltero,Solo,Isapre Alemana Salud S.A.
+13,Alert,08-2020,28e,,3.44,5.86,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,644,285,674,1,711,S - Soltero,Solo,Isapre Alemana Salud S.A.
+13,Alert,01-2021,28e,,3.37,3.12,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,644,285,674,1,711,S - Soltero,Solo,Isapre Alemana Salud S.A.
+13,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,644,285,674,1,711,S - Soltero,Solo,Isapre Alemana Salud S.A.
+14,No Alert,01-2019,,,4.57,4.57,201920,60 - PSU,F,Vigente,,Particular Pagado,214,185,784,1,175,S - Soltero,"Hermanos, Parientes, Amigos",Sin Prevision
+14,Alert,08-2019,"28c,28d",,3.42,2.27,201920,60 - PSU,F,Vigente,,Particular Pagado,214,185,784,1,175,S - Soltero,"Hermanos, Parientes, Amigos",Sin Prevision
+14,Alert,01-2020,28e,,3.97,5.08,201920,60 - PSU,F,Vigente,,Particular Pagado,214,185,784,1,175,S - Soltero,"Hermanos, Parientes, Amigos",Sin Prevision
+14,Alert,08-2020,28e,,3.44,1.86,201920,60 - PSU,F,Vigente,,Particular Pagado,214,185,784,1,175,S - Soltero,"Hermanos, Parientes, Amigos",Sin Prevision
+14,Alert,01-2021,28e,,2.97,1.06,201920,60 - PSU,F,Vigente,,Particular Pagado,214,185,784,1,175,S - Soltero,"Hermanos, Parientes, Amigos",Sin Prevision
+14,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,,Particular Pagado,214,185,784,1,175,S - Soltero,"Hermanos, Parientes, Amigos",Sin Prevision
+15,Suspensión,01-2019,,,,,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,710,594,477,1,132,,Solo (Independiente),Isapre Ing Salud S.A.
+15,Suspensión,08-2019,,,,,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,710,594,477,1,132,,Solo (Independiente),Isapre Ing Salud S.A.
+15,Alert,01-2020,"28a,28b",,1.12,1.12,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,710,594,477,1,132,,Solo (Independiente),Isapre Ing Salud S.A.
+15,Alert,08-2020,"28c,28d",,1.39,1.65,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,710,594,477,1,132,,Solo (Independiente),Isapre Ing Salud S.A.
+15,Alert,01-2021,28e,,2.26,4.0,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,710,594,477,1,132,,Solo (Independiente),Isapre Ing Salud S.A.
+15,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,710,594,477,1,132,,Solo (Independiente),Isapre Ing Salud S.A.
+16,Suspensión,01-2019,,,,,201920,60 - PSU,M,No vigente,VIII R. del Biobío,Particular Pagado,284,118,264,2,624,C - Casado,Otros parientes,Isapre Chuquicamata
+16,Suspensión,08-2019,,,,,201920,60 - PSU,M,No vigente,VIII R. del Biobío,Particular Pagado,284,118,264,2,624,C - Casado,Otros parientes,Isapre Chuquicamata
+16,Suspensión,01-2020,,,,,201920,60 - PSU,M,No vigente,VIII R. del Biobío,Particular Pagado,284,118,264,2,624,C - Casado,Otros parientes,Isapre Chuquicamata
+16,No Alert,08-2020,,,4.05,4.05,201920,60 - PSU,M,No vigente,VIII R. del Biobío,Particular Pagado,284,118,264,2,624,C - Casado,Otros parientes,Isapre Chuquicamata
+16,Expelled,12-2020,,,,,201920,60 - PSU,M,No vigente,VIII R. del Biobío,Particular Pagado,284,118,264,2,624,C - Casado,Otros parientes,Isapre Chuquicamata
+18,Alert,01-2019,"28a,28b",,2.73,2.73,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,70,708,210,2,891,C - Casado,Otros,Isapre Alemana Salud S.A.
+18,Alert,08-2019,"28c,28d",,2.0,1.26,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,70,708,210,2,891,C - Casado,Otros,Isapre Alemana Salud S.A.
+18,Alert,01-2020,28e,,2.56,3.68,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,70,708,210,2,891,C - Casado,Otros,Isapre Alemana Salud S.A.
+18,Alert,08-2020,28e,,3.56,6.59,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,70,708,210,2,891,C - Casado,Otros,Isapre Alemana Salud S.A.
+18,No Alert,01-2021,,,4.24,6.96,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,70,708,210,2,891,C - Casado,Otros,Isapre Alemana Salud S.A.
+18,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,70,708,210,2,891,C - Casado,Otros,Isapre Alemana Salud S.A.
+20,Alert,01-2019,"28a,28b",,2.76,2.76,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Municipal,73,646,272,2,383,D - Divorciado,Solo (Independiente),Isapre Vida Tres S.A.
+20,Alert,08-2019,"28c,28d",,1.92,1.09,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Municipal,73,646,272,2,383,D - Divorciado,Solo (Independiente),Isapre Vida Tres S.A.
+20,Alert,01-2020,28e,,3.54,6.77,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Municipal,73,646,272,2,383,D - Divorciado,Solo (Independiente),Isapre Vida Tres S.A.
+20,Alert,08-2020,28e,,3.56,3.64,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Municipal,73,646,272,2,383,D - Divorciado,Solo (Independiente),Isapre Vida Tres S.A.
+20,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Municipal,73,646,272,2,383,D - Divorciado,Solo (Independiente),Isapre Vida Tres S.A.
+20,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Municipal,73,646,272,2,383,D - Divorciado,Solo (Independiente),Isapre Vida Tres S.A.
+22,Suspensión,01-2019,,,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,518,126,97,2,526,S - Soltero,No Tiene,Isapre Alemana Salud S.A.
+22,Suspensión,08-2019,,,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,518,126,97,2,526,S - Soltero,No Tiene,Isapre Alemana Salud S.A.
+22,No Alert,01-2020,,,4.69,4.69,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,518,126,97,2,526,S - Soltero,No Tiene,Isapre Alemana Salud S.A.
+22,Alert,08-2020,28d,,4.24,3.79,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,518,126,97,2,526,S - Soltero,No Tiene,Isapre Alemana Salud S.A.
+22,No Alert,01-2021,,,4.22,4.19,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,518,126,97,2,526,S - Soltero,No Tiene,Isapre Alemana Salud S.A.
+22,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,518,126,97,2,526,S - Soltero,No Tiene,Isapre Alemana Salud S.A.
+23,Alert,01-2019,"28a,28b",,2.83,2.83,201920,60 - PSU,F,No vigente,II R. de Antofagasta,Particular Subvencionado,720,427,240,2,593,U - Acuerdo de Unión Civil,Ambos Padres,Fonasa
+23,Alert,08-2019,"28c,28d",,3.37,3.9,201920,60 - PSU,F,No vigente,II R. de Antofagasta,Particular Subvencionado,720,427,240,2,593,U - Acuerdo de Unión Civil,Ambos Padres,Fonasa
+23,Alert,01-2020,28e,,3.1,2.58,201920,60 - PSU,F,No vigente,II R. de Antofagasta,Particular Subvencionado,720,427,240,2,593,U - Acuerdo de Unión Civil,Ambos Padres,Fonasa
+23,Alert,08-2020,28e,,2.94,2.43,201920,60 - PSU,F,No vigente,II R. de Antofagasta,Particular Subvencionado,720,427,240,2,593,U - Acuerdo de Unión Civil,Ambos Padres,Fonasa
+23,Expelled,12-2020,,,,,201920,60 - PSU,F,No vigente,II R. de Antofagasta,Particular Subvencionado,720,427,240,2,593,U - Acuerdo de Unión Civil,Ambos Padres,Fonasa
+24,Alert,01-2019,"28a,28b",,2.29,2.29,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,120,291,126,2,874,C - Casado,Solo con mi madre,Isapre Ing Salud S.A.
+24,Alert,08-2019,28c,,3.52,4.74,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,120,291,126,2,874,C - Casado,Solo con mi madre,Isapre Ing Salud S.A.
+24,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,120,291,126,2,874,C - Casado,Solo con mi madre,Isapre Ing Salud S.A.
+24,No Alert,08-2020,,,4.15,5.42,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,120,291,126,2,874,C - Casado,Solo con mi madre,Isapre Ing Salud S.A.
+24,Alert,01-2021,28e,,3.66,2.2,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,120,291,126,2,874,C - Casado,Solo con mi madre,Isapre Ing Salud S.A.
+24,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,120,291,126,2,874,C - Casado,Solo con mi madre,Isapre Ing Salud S.A.
+25,Alert,01-2019,"28a,28b",,2.5,2.5,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Municipal,80,692,663,2,231,C - Casado,No Tiene,Otra Institución
+25,Alert,08-2019,"28c,28d",,2.15,1.8,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Municipal,80,692,663,2,231,C - Casado,No Tiene,Otra Institución
+25,Alert,01-2020,28e,,2.79,4.08,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Municipal,80,692,663,2,231,C - Casado,No Tiene,Otra Institución
+25,Alert,08-2020,28e,,2.52,1.71,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Municipal,80,692,663,2,231,C - Casado,No Tiene,Otra Institución
+25,Alert,01-2021,28e,,3.36,6.71,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Municipal,80,692,663,2,231,C - Casado,No Tiene,Otra Institución
+25,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Municipal,80,692,663,2,231,C - Casado,No Tiene,Otra Institución
+26,Alert,01-2019,"28a,28b",,2.16,2.16,201920,60 - PSU,M,Vigente,No tiene,Municipal,488,396,203,2,615,D - Divorciado,Institucion,Capredena
+26,Alert,08-2019,28c,,3.39,4.61,201920,60 - PSU,M,Vigente,No tiene,Municipal,488,396,203,2,615,D - Divorciado,Institucion,Capredena
+26,Alert,01-2020,28e,,3.43,3.51,201920,60 - PSU,M,Vigente,No tiene,Municipal,488,396,203,2,615,D - Divorciado,Institucion,Capredena
+26,Alert,08-2020,28e,,3.26,2.76,201920,60 - PSU,M,Vigente,No tiene,Municipal,488,396,203,2,615,D - Divorciado,Institucion,Capredena
+26,Alert,01-2021,28e,,3.1,2.47,201920,60 - PSU,M,Vigente,No tiene,Municipal,488,396,203,2,615,D - Divorciado,Institucion,Capredena
+26,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,No tiene,Municipal,488,396,203,2,615,D - Divorciado,Institucion,Capredena
+28,Alert,01-2019,"28a,28b",,3.0,3.0,201920,56 - PACE,F,No vigente,V R. de Valparaíso,Particular Subvencionado,429,341,288,2,674,C - Casado,No Tiene,Isapre Fund Salud Trab BcoEsta
+28,Alert,08-2019,"28c,28d",,3.42,3.83,201920,56 - PACE,F,No vigente,V R. de Valparaíso,Particular Subvencionado,429,341,288,2,674,C - Casado,No Tiene,Isapre Fund Salud Trab BcoEsta
+28,Expelled,12-2019,,,,,201920,56 - PACE,F,No vigente,V R. de Valparaíso,Particular Subvencionado,429,341,288,2,674,C - Casado,No Tiene,Isapre Fund Salud Trab BcoEsta
+29,Alert,01-2019,"28a,28b",,2.02,2.02,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,274,299,677,1,688,D - Divorciado,"Hermanos, Parientes, Amigos",Isapre Consalud S.A.
+29,Alert,08-2019,"28c,28d",,1.7,1.37,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,274,299,677,1,688,D - Divorciado,"Hermanos, Parientes, Amigos",Isapre Consalud S.A.
+29,Alert,01-2020,28e,,2.33,3.6,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,274,299,677,1,688,D - Divorciado,"Hermanos, Parientes, Amigos",Isapre Consalud S.A.
+29,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,274,299,677,1,688,D - Divorciado,"Hermanos, Parientes, Amigos",Isapre Consalud S.A.
+29,Alert,01-2021,28e,,2.1,1.4,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,274,299,677,1,688,D - Divorciado,"Hermanos, Parientes, Amigos",Isapre Consalud S.A.
+29,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,274,299,677,1,688,D - Divorciado,"Hermanos, Parientes, Amigos",Isapre Consalud S.A.
+31,Alert,01-2019,"28a,28b",,2.68,2.68,201920,60 - PSU,F,No vigente,V R. de Valparaíso,Municipal,135,607,257,2,430,D - Divorciado,Uno De Los Padres,Isapre Ferrosalud S.A.
+31,Alert,08-2019,"28c,28d",,3.53,4.37,201920,60 - PSU,F,No vigente,V R. de Valparaíso,Municipal,135,607,257,2,430,D - Divorciado,Uno De Los Padres,Isapre Ferrosalud S.A.
+31,Alert,01-2020,28e,,3.53,3.54,201920,60 - PSU,F,No vigente,V R. de Valparaíso,Municipal,135,607,257,2,430,D - Divorciado,Uno De Los Padres,Isapre Ferrosalud S.A.
+31,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,F,No vigente,V R. de Valparaíso,Municipal,135,607,257,2,430,D - Divorciado,Uno De Los Padres,Isapre Ferrosalud S.A.
+31,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,F,No vigente,V R. de Valparaíso,Municipal,135,607,257,2,430,D - Divorciado,Uno De Los Padres,Isapre Ferrosalud S.A.
+31,Expelled,07-2021,,,,,201920,60 - PSU,F,No vigente,V R. de Valparaíso,Municipal,135,607,257,2,430,D - Divorciado,Uno De Los Padres,Isapre Ferrosalud S.A.
+32,Alert,01-2019,"28a,28b",,2.84,2.84,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Municipal,285,349,104,1,559,D - Divorciado,"Con pareja (conyuge, conviv.)",Isapre Rio Blanco Ltda.
+32,Alert,08-2019,28c,,3.91,4.98,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Municipal,285,349,104,1,559,D - Divorciado,"Con pareja (conyuge, conviv.)",Isapre Rio Blanco Ltda.
+32,Alert,01-2020,28e,,3.65,3.12,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Municipal,285,349,104,1,559,D - Divorciado,"Con pareja (conyuge, conviv.)",Isapre Rio Blanco Ltda.
+32,Alert,08-2020,28e,,3.69,3.8,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Municipal,285,349,104,1,559,D - Divorciado,"Con pareja (conyuge, conviv.)",Isapre Rio Blanco Ltda.
+32,Alert,01-2021,28e,,3.82,4.35,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Municipal,285,349,104,1,559,D - Divorciado,"Con pareja (conyuge, conviv.)",Isapre Rio Blanco Ltda.
+32,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Municipal,285,349,104,1,559,D - Divorciado,"Con pareja (conyuge, conviv.)",Isapre Rio Blanco Ltda.
+33,Suspensión,01-2019,,,,,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Particular Subvencionado,673,101,464,1,90,U - Acuerdo de Unión Civil,Solo (Independiente),Sin Prevision
+33,Alert,08-2019,"28a,28b",,1.86,1.86,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Particular Subvencionado,673,101,464,1,90,U - Acuerdo de Unión Civil,Solo (Independiente),Sin Prevision
+33,Alert,01-2020,28c,,3.29,4.71,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Particular Subvencionado,673,101,464,1,90,U - Acuerdo de Unión Civil,Solo (Independiente),Sin Prevision
+33,No Alert,08-2020,,,4.17,5.93,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Particular Subvencionado,673,101,464,1,90,U - Acuerdo de Unión Civil,Solo (Independiente),Sin Prevision
+33,Suspensión,01-2021,,,,,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Particular Subvencionado,673,101,464,1,90,U - Acuerdo de Unión Civil,Solo (Independiente),Sin Prevision
+33,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Particular Subvencionado,673,101,464,1,90,U - Acuerdo de Unión Civil,Solo (Independiente),Sin Prevision
+34,Alert,01-2019,"28a,28b",,1.97,1.97,201920,60 - PSU,M,Vigente,XV R. de Arica y Parinacota,Particular Subvencionado,372,16,383,1,740,,Otros parientes,Sin Prevision
+34,Alert,08-2019,"28c,28d",,1.81,1.66,201920,60 - PSU,M,Vigente,XV R. de Arica y Parinacota,Particular Subvencionado,372,16,383,1,740,,Otros parientes,Sin Prevision
+34,Alert,01-2020,28e,,2.83,4.86,201920,60 - PSU,M,Vigente,XV R. de Arica y Parinacota,Particular Subvencionado,372,16,383,1,740,,Otros parientes,Sin Prevision
+34,Alert,08-2020,28e,,2.49,1.47,201920,60 - PSU,M,Vigente,XV R. de Arica y Parinacota,Particular Subvencionado,372,16,383,1,740,,Otros parientes,Sin Prevision
+34,Alert,01-2021,28e,,2.59,2.97,201920,60 - PSU,M,Vigente,XV R. de Arica y Parinacota,Particular Subvencionado,372,16,383,1,740,,Otros parientes,Sin Prevision
+34,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XV R. de Arica y Parinacota,Particular Subvencionado,372,16,383,1,740,,Otros parientes,Sin Prevision
+36,Suspensión,01-2019,,,,,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Particular Pagado,23,684,648,1,480,D - Divorciado,Solo,Isapre Consalud S.A.
+36,Alert,08-2019,"28a,28b",,3.21,3.21,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Particular Pagado,23,684,648,1,480,D - Divorciado,Solo,Isapre Consalud S.A.
+36,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Particular Pagado,23,684,648,1,480,D - Divorciado,Solo,Isapre Consalud S.A.
+36,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Particular Pagado,23,684,648,1,480,D - Divorciado,Solo,Isapre Consalud S.A.
+36,Dropout,12-2020,,,,,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Particular Pagado,23,684,648,1,480,D - Divorciado,Solo,Isapre Consalud S.A.
+37,Alert,01-2019,"28a,28b",,2.42,2.42,201920,60 - PSU,F,Vigente,IV R. de Coquimbo,Municipal,74,370,174,2,517,D - Divorciado,Solo con mi madre,Sin Prevision
+37,Alert,08-2019,"28c,28d",,1.9,1.37,201920,60 - PSU,F,Vigente,IV R. de Coquimbo,Municipal,74,370,174,2,517,D - Divorciado,Solo con mi madre,Sin Prevision
+37,Alert,01-2020,28e,,2.4,3.4,201920,60 - PSU,F,Vigente,IV R. de Coquimbo,Municipal,74,370,174,2,517,D - Divorciado,Solo con mi madre,Sin Prevision
+37,Alert,08-2020,28e,,2.09,1.19,201920,60 - PSU,F,Vigente,IV R. de Coquimbo,Municipal,74,370,174,2,517,D - Divorciado,Solo con mi madre,Sin Prevision
+37,Alert,01-2021,28e,,2.5,4.12,201920,60 - PSU,F,Vigente,IV R. de Coquimbo,Municipal,74,370,174,2,517,D - Divorciado,Solo con mi madre,Sin Prevision
+37,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,IV R. de Coquimbo,Municipal,74,370,174,2,517,D - Divorciado,Solo con mi madre,Sin Prevision
+38,Alert,01-2019,"28a,28b",,2.5,2.5,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,323,491,686,1,227,C - Casado,Solo con mi padre,Isapre Ing Salud S.A.
+38,Alert,08-2019,28c,,3.81,5.13,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,323,491,686,1,227,C - Casado,Solo con mi padre,Isapre Ing Salud S.A.
+38,No Alert,01-2020,,,4.8,6.78,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,323,491,686,1,227,C - Casado,Solo con mi padre,Isapre Ing Salud S.A.
+38,No Alert,08-2020,,,4.17,2.26,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,323,491,686,1,227,C - Casado,Solo con mi padre,Isapre Ing Salud S.A.
+38,No Alert,01-2021,,,4.13,3.99,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,323,491,686,1,227,C - Casado,Solo con mi padre,Isapre Ing Salud S.A.
+38,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,323,491,686,1,227,C - Casado,Solo con mi padre,Isapre Ing Salud S.A.
+41,No Alert,01-2019,,,5.94,5.94,201920,60 - PSU,F,Vigente,VI R. del L.B.OHiggins,Particular Pagado,473,671,410,1,530,,Con ambos padres,Isapre Ing Salud S.A.
+41,Suspensión,08-2019,,,,,201920,60 - PSU,F,Vigente,VI R. del L.B.OHiggins,Particular Pagado,473,671,410,1,530,,Con ambos padres,Isapre Ing Salud S.A.
+41,No Alert,01-2020,,,5.82,5.69,201920,60 - PSU,F,Vigente,VI R. del L.B.OHiggins,Particular Pagado,473,671,410,1,530,,Con ambos padres,Isapre Ing Salud S.A.
+41,No Alert,08-2020,,,4.97,3.27,201920,60 - PSU,F,Vigente,VI R. del L.B.OHiggins,Particular Pagado,473,671,410,1,530,,Con ambos padres,Isapre Ing Salud S.A.
+41,Suspensión,01-2021,,,,,201920,60 - PSU,F,Vigente,VI R. del L.B.OHiggins,Particular Pagado,473,671,410,1,530,,Con ambos padres,Isapre Ing Salud S.A.
+41,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,VI R. del L.B.OHiggins,Particular Pagado,473,671,410,1,530,,Con ambos padres,Isapre Ing Salud S.A.
+43,Alert,01-2019,"28a,28b",,2.79,2.79,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,146,527,404,1,759,U - Acuerdo de Unión Civil,,Isapre Fund Salud Trab BcoEsta
+43,Alert,08-2019,"28c,28d",,3.31,3.83,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,146,527,404,1,759,U - Acuerdo de Unión Civil,,Isapre Fund Salud Trab BcoEsta
+43,Alert,01-2020,28e,,2.94,2.2,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,146,527,404,1,759,U - Acuerdo de Unión Civil,,Isapre Fund Salud Trab BcoEsta
+43,Alert,08-2020,28e,,3.11,3.62,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,146,527,404,1,759,U - Acuerdo de Unión Civil,,Isapre Fund Salud Trab BcoEsta
+43,Alert,01-2021,28e,,2.81,1.63,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,146,527,404,1,759,U - Acuerdo de Unión Civil,,Isapre Fund Salud Trab BcoEsta
+43,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,146,527,404,1,759,U - Acuerdo de Unión Civil,,Isapre Fund Salud Trab BcoEsta
+44,Alert,01-2019,"28a,28b",,2.39,2.39,201920,60 - PSU,F,Vigente,V R. de Valparaíso,Particular Subvencionado,85,3,170,2,679,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+44,Alert,08-2019,28c,,3.65,4.91,201920,60 - PSU,F,Vigente,V R. de Valparaíso,Particular Subvencionado,85,3,170,2,679,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+44,No Alert,01-2020,,,4.13,5.1,201920,60 - PSU,F,Vigente,V R. de Valparaíso,Particular Subvencionado,85,3,170,2,679,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+44,Alert,08-2020,28e,,3.89,3.15,201920,60 - PSU,F,Vigente,V R. de Valparaíso,Particular Subvencionado,85,3,170,2,679,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+44,Alert,01-2021,28e,,3.7,2.97,201920,60 - PSU,F,Vigente,V R. de Valparaíso,Particular Subvencionado,85,3,170,2,679,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+44,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,V R. de Valparaíso,Particular Subvencionado,85,3,170,2,679,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+45,Suspensión,01-2019,,,,,201920,60 - PSU,F,No vigente,,Particular Pagado,748,485,794,1,443,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Banmedica S.A.
+45,Suspensión,08-2019,,,,,201920,60 - PSU,F,No vigente,,Particular Pagado,748,485,794,1,443,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Banmedica S.A.
+45,Alert,01-2020,"28a,28b",,2.54,2.54,201920,60 - PSU,F,No vigente,,Particular Pagado,748,485,794,1,443,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Banmedica S.A.
+45,Dropout,07-2020,,,,,201920,60 - PSU,F,No vigente,,Particular Pagado,748,485,794,1,443,U - Acuerdo de Unión Civil,Solo con mi padre,Isapre Banmedica S.A.
+46,Alert,01-2019,"28a,28b",,2.51,2.51,201920,60 - PSU,F,Vigente,No tiene,Particular Subvencionado,479,159,16,2,880,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Cruz Blanca S.A.
+46,Alert,08-2019,"28c,28d",,1.95,1.39,201920,60 - PSU,F,Vigente,No tiene,Particular Subvencionado,479,159,16,2,880,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Cruz Blanca S.A.
+46,Alert,01-2020,28e,,2.54,3.73,201920,60 - PSU,F,Vigente,No tiene,Particular Subvencionado,479,159,16,2,880,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Cruz Blanca S.A.
+46,Alert,08-2020,28e,,3.29,5.52,201920,60 - PSU,F,Vigente,No tiene,Particular Subvencionado,479,159,16,2,880,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Cruz Blanca S.A.
+46,Alert,01-2021,28e,,3.85,6.08,201920,60 - PSU,F,Vigente,No tiene,Particular Subvencionado,479,159,16,2,880,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Cruz Blanca S.A.
+46,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,No tiene,Particular Subvencionado,479,159,16,2,880,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Cruz Blanca S.A.
+47,Alert,01-2019,"28a,28b",,2.85,2.85,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,374,24,111,2,422,C - Casado,Solo (Independiente),Isapre Consalud
+47,Alert,08-2019,"28c,28d",,2.38,1.91,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,374,24,111,2,422,C - Casado,Solo (Independiente),Isapre Consalud
+47,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,374,24,111,2,422,C - Casado,Solo (Independiente),Isapre Consalud
+47,Alert,08-2020,28e,,3.49,5.7,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,374,24,111,2,422,C - Casado,Solo (Independiente),Isapre Consalud
+47,Alert,01-2021,28e,,3.97,5.43,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,374,24,111,2,422,C - Casado,Solo (Independiente),Isapre Consalud
+47,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,374,24,111,2,422,C - Casado,Solo (Independiente),Isapre Consalud
+48,Alert,01-2019,"28a,28b",,2.87,2.87,201920,56 - PACE,M,Vigente,,Particular Subvencionado,548,574,546,1,794,D - Divorciado,Con ambos padres,Capredena
+48,Alert,08-2019,"28c,28d",,2.26,1.65,201920,56 - PACE,M,Vigente,,Particular Subvencionado,548,574,546,1,794,D - Divorciado,Con ambos padres,Capredena
+48,Alert,01-2020,28e,,3.56,6.15,201920,56 - PACE,M,Vigente,,Particular Subvencionado,548,574,546,1,794,D - Divorciado,Con ambos padres,Capredena
+48,Suspensión,08-2020,,After Alert,,,201920,56 - PACE,M,Vigente,,Particular Subvencionado,548,574,546,1,794,D - Divorciado,Con ambos padres,Capredena
+48,Alert,01-2021,28e,,3.46,3.15,201920,56 - PACE,M,Vigente,,Particular Subvencionado,548,574,546,1,794,D - Divorciado,Con ambos padres,Capredena
+48,Taking courses,07-2021,,,,,201920,56 - PACE,M,Vigente,,Particular Subvencionado,548,574,546,1,794,D - Divorciado,Con ambos padres,Capredena
+50,Alert,01-2019,"28a,28b",,3.22,3.22,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,581,243,132,1,521,,Con ambos padres,Fonasa
+50,Alert,08-2019,"28c,28d",,2.38,1.54,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,581,243,132,1,521,,Con ambos padres,Fonasa
+50,Alert,01-2020,28e,,3.47,5.65,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,581,243,132,1,521,,Con ambos padres,Fonasa
+50,No Alert,08-2020,,,4.26,6.62,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,581,243,132,1,521,,Con ambos padres,Fonasa
+50,Alert,01-2021,"28e,28f",,3.89,2.4,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,581,243,132,1,521,,Con ambos padres,Fonasa
+50,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,581,243,132,1,521,,Con ambos padres,Fonasa
+51,No Alert,01-2019,,,5.38,5.38,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,524,315,301,2,796,S - Soltero,Con ambos padres,Sin Prevision
+51,No Alert,08-2019,,,5.37,5.36,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,524,315,301,2,796,S - Soltero,Con ambos padres,Sin Prevision
+51,No Alert,01-2020,,,4.13,1.66,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,524,315,301,2,796,S - Soltero,Con ambos padres,Sin Prevision
+51,No Alert,08-2020,,,4.7,6.41,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,524,315,301,2,796,S - Soltero,Con ambos padres,Sin Prevision
+51,Suspensión,01-2021,,,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,524,315,301,2,796,S - Soltero,Con ambos padres,Sin Prevision
+51,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,524,315,301,2,796,S - Soltero,Con ambos padres,Sin Prevision
+53,No Alert,01-2019,,,4.25,4.25,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,55,222,603,2,174,S - Soltero,Otros,Isapre Ferrosalud S.A.
+53,Alert,08-2019,"28c,28d",,2.88,1.52,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,55,222,603,2,174,S - Soltero,Otros,Isapre Ferrosalud S.A.
+53,No Alert,01-2020,,,4.11,6.55,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,55,222,603,2,174,S - Soltero,Otros,Isapre Ferrosalud S.A.
+53,No Alert,08-2020,,,4.06,3.92,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,55,222,603,2,174,S - Soltero,Otros,Isapre Ferrosalud S.A.
+53,No Alert,01-2021,,,4.12,4.35,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,55,222,603,2,174,S - Soltero,Otros,Isapre Ferrosalud S.A.
+53,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,55,222,603,2,174,S - Soltero,Otros,Isapre Ferrosalud S.A.
+54,Alert,01-2019,"28a,28b",,2.24,2.24,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,571,107,470,1,871,D - Divorciado,Uno De Los Padres,Sin Prevision
+54,No Alert,08-2019,,,4.55,6.86,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,571,107,470,1,871,D - Divorciado,Uno De Los Padres,Sin Prevision
+54,No Alert,01-2020,,,4.58,4.65,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,571,107,470,1,871,D - Divorciado,Uno De Los Padres,Sin Prevision
+54,No Alert,08-2020,,,4.61,4.68,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,571,107,470,1,871,D - Divorciado,Uno De Los Padres,Sin Prevision
+54,Alert,01-2021,28e,,3.99,1.52,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,571,107,470,1,871,D - Divorciado,Uno De Los Padres,Sin Prevision
+54,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,571,107,470,1,871,D - Divorciado,Uno De Los Padres,Sin Prevision
+57,Alert,01-2019,"28a,28b",,2.15,2.15,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,10,234,157,1,752,C - Casado,Solo,Isapre Masvida
+57,Alert,08-2019,"28c,28d",,2.36,2.57,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,10,234,157,1,752,C - Casado,Solo,Isapre Masvida
+57,Alert,01-2020,28e,,2.95,4.13,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,10,234,157,1,752,C - Casado,Solo,Isapre Masvida
+57,Alert,08-2020,28e,,3.86,6.59,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,10,234,157,1,752,C - Casado,Solo,Isapre Masvida
+57,Alert,01-2021,28e,,3.54,2.27,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,10,234,157,1,752,C - Casado,Solo,Isapre Masvida
+57,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,10,234,157,1,752,C - Casado,Solo,Isapre Masvida
+60,Alert,01-2019,"28a,28b",,2.51,2.51,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,505,307,556,1,399,D - Divorciado,Otros parientes,Isapre Alemana Salud S.A.
+60,Suspensión,08-2019,,After Alert,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,505,307,556,1,399,D - Divorciado,Otros parientes,Isapre Alemana Salud S.A.
+60,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,505,307,556,1,399,D - Divorciado,Otros parientes,Isapre Alemana Salud S.A.
+60,Alert,08-2020,"28c,28d",,1.91,1.31,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,505,307,556,1,399,D - Divorciado,Otros parientes,Isapre Alemana Salud S.A.
+60,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,505,307,556,1,399,D - Divorciado,Otros parientes,Isapre Alemana Salud S.A.
+60,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Subvencionado,505,307,556,1,399,D - Divorciado,Otros parientes,Isapre Alemana Salud S.A.
+61,Alert,01-2019,"28a,28b",,3.34,3.34,201920,60 - PSU,F,Vigente,,Particular Subvencionado,426,306,80,1,267,C - Casado,Hogar de menores,Capredena
+61,No Alert,08-2019,,,4.8,6.27,201920,60 - PSU,F,Vigente,,Particular Subvencionado,426,306,80,1,267,C - Casado,Hogar de menores,Capredena
+61,Alert,01-2020,28e,,3.81,1.83,201920,60 - PSU,F,Vigente,,Particular Subvencionado,426,306,80,1,267,C - Casado,Hogar de menores,Capredena
+61,No Alert,08-2020,,,4.53,6.67,201920,60 - PSU,F,Vigente,,Particular Subvencionado,426,306,80,1,267,C - Casado,Hogar de menores,Capredena
+61,No Alert,01-2021,,,4.88,6.3,201920,60 - PSU,F,Vigente,,Particular Subvencionado,426,306,80,1,267,C - Casado,Hogar de menores,Capredena
+61,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,,Particular Subvencionado,426,306,80,1,267,C - Casado,Hogar de menores,Capredena
+62,Alert,01-2019,"28a,28b",,2.48,2.48,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,549,114,672,2,336,D - Divorciado,Solo con mi madre,Isapre Colmena Golden Cross SA
+62,Alert,08-2019,"28c,28d",,2.18,1.88,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,549,114,672,2,336,D - Divorciado,Solo con mi madre,Isapre Colmena Golden Cross SA
+62,Alert,01-2020,28e,,3.14,5.06,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,549,114,672,2,336,D - Divorciado,Solo con mi madre,Isapre Colmena Golden Cross SA
+62,Alert,08-2020,28e,,3.48,4.49,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,549,114,672,2,336,D - Divorciado,Solo con mi madre,Isapre Colmena Golden Cross SA
+62,Alert,01-2021,28e,,3.96,5.9,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,549,114,672,2,336,D - Divorciado,Solo con mi madre,Isapre Colmena Golden Cross SA
+62,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,549,114,672,2,336,D - Divorciado,Solo con mi madre,Isapre Colmena Golden Cross SA
+63,Alert,01-2019,"28a,28b",,2.57,2.57,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,500,208,669,1,581,C - Casado,,Isapre San Lorenzo Ltda.
+63,Alert,08-2019,"28c,28d",,1.83,1.1,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,500,208,669,1,581,C - Casado,,Isapre San Lorenzo Ltda.
+63,Alert,01-2020,28e,,1.93,2.12,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,500,208,669,1,581,C - Casado,,Isapre San Lorenzo Ltda.
+63,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,500,208,669,1,581,C - Casado,,Isapre San Lorenzo Ltda.
+63,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,500,208,669,1,581,C - Casado,,Isapre San Lorenzo Ltda.
+63,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,IX R. de la Araucanía,Particular Pagado,500,208,669,1,581,C - Casado,,Isapre San Lorenzo Ltda.
+64,No Alert,01-2019,,,5.76,5.76,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Pagado,512,99,403,2,273,U - Acuerdo de Unión Civil,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+64,No Alert,08-2019,,,6.37,6.98,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Pagado,512,99,403,2,273,U - Acuerdo de Unión Civil,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+64,No Alert,01-2020,,,4.87,1.88,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Pagado,512,99,403,2,273,U - Acuerdo de Unión Civil,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+64,No Alert,08-2020,,,4.56,3.63,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Pagado,512,99,403,2,273,U - Acuerdo de Unión Civil,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+64,No Alert,01-2021,,,4.19,2.69,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Pagado,512,99,403,2,273,U - Acuerdo de Unión Civil,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+64,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XVI R. de Ñuble,Particular Pagado,512,99,403,2,273,U - Acuerdo de Unión Civil,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+65,No Alert,01-2019,,,6.77,6.77,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,757,614,264,1,376,U - Acuerdo de Unión Civil,El Conyuge,Isapre Banmedica S.A.
+65,No Alert,08-2019,,,5.72,4.67,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,757,614,264,1,376,U - Acuerdo de Unión Civil,El Conyuge,Isapre Banmedica S.A.
+65,No Alert,01-2020,,,4.83,3.05,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,757,614,264,1,376,U - Acuerdo de Unión Civil,El Conyuge,Isapre Banmedica S.A.
+65,No Alert,08-2020,,,4.38,3.02,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,757,614,264,1,376,U - Acuerdo de Unión Civil,El Conyuge,Isapre Banmedica S.A.
+65,No Alert,01-2021,,,4.0,2.5,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,757,614,264,1,376,U - Acuerdo de Unión Civil,El Conyuge,Isapre Banmedica S.A.
+65,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,757,614,264,1,376,U - Acuerdo de Unión Civil,El Conyuge,Isapre Banmedica S.A.
+66,Alert,01-2019,"28a,28b",,1.93,1.93,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Particular Subvencionado,86,439,488,2,367,C - Casado,Institucion,Isapre Banmedica S.A.
+66,Alert,08-2019,"28c,28d",,2.75,3.58,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Particular Subvencionado,86,439,488,2,367,C - Casado,Institucion,Isapre Banmedica S.A.
+66,No Alert,01-2020,,,4.07,6.7,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Particular Subvencionado,86,439,488,2,367,C - Casado,Institucion,Isapre Banmedica S.A.
+66,No Alert,08-2020,,,4.58,6.12,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Particular Subvencionado,86,439,488,2,367,C - Casado,Institucion,Isapre Banmedica S.A.
+66,No Alert,01-2021,,,4.54,4.37,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Particular Subvencionado,86,439,488,2,367,C - Casado,Institucion,Isapre Banmedica S.A.
+66,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XIII R. Metropolitana,Particular Subvencionado,86,439,488,2,367,C - Casado,Institucion,Isapre Banmedica S.A.
+67,Alert,01-2019,"28a,28b",,2.19,2.19,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,664,440,341,2,119,D - Divorciado,Hogar de menores,Sin Prevision
+67,Alert,08-2019,"28c,28d",,2.45,2.7,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,664,440,341,2,119,D - Divorciado,Hogar de menores,Sin Prevision
+67,Alert,01-2020,28e,,2.66,3.08,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,664,440,341,2,119,D - Divorciado,Hogar de menores,Sin Prevision
+67,Alert,08-2020,28e,,3.22,4.9,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,664,440,341,2,119,D - Divorciado,Hogar de menores,Sin Prevision
+67,Alert,01-2021,28e,,3.26,3.41,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,664,440,341,2,119,D - Divorciado,Hogar de menores,Sin Prevision
+67,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,664,440,341,2,119,D - Divorciado,Hogar de menores,Sin Prevision
+68,Alert,01-2019,"28a,28b",,2.67,2.67,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,50,318,543,1,167,,,Capredena
+68,Alert,08-2019,"28c,28d",,2.02,1.37,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,50,318,543,1,167,,,Capredena
+68,Alert,01-2020,28e,,2.76,4.23,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,50,318,543,1,167,,,Capredena
+68,Alert,08-2020,28e,,2.67,2.41,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,50,318,543,1,167,,,Capredena
+68,Alert,01-2021,28e,,2.57,2.17,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,50,318,543,1,167,,,Capredena
+68,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,50,318,543,1,167,,,Capredena
+69,Alert,01-2019,"28a,28b",,2.46,2.46,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,540,391,560,2,409,,Otros parientes,Isapre Rio Blanco Ltda.
+69,No Alert,08-2019,,,4.31,6.16,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,540,391,560,2,409,,Otros parientes,Isapre Rio Blanco Ltda.
+69,No Alert,01-2020,,,4.21,4.02,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,540,391,560,2,409,,Otros parientes,Isapre Rio Blanco Ltda.
+69,No Alert,08-2020,,,4.62,5.82,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,540,391,560,2,409,,Otros parientes,Isapre Rio Blanco Ltda.
+69,No Alert,01-2021,,,4.85,5.78,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,540,391,560,2,409,,Otros parientes,Isapre Rio Blanco Ltda.
+69,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,540,391,560,2,409,,Otros parientes,Isapre Rio Blanco Ltda.
+71,Alert,01-2019,"28a,28b",,1.81,1.81,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,321,368,495,1,532,U - Acuerdo de Unión Civil,Institucion,Isapre Ing Salud S.A.
+71,Alert,08-2019,"28c,28d",,2.17,2.53,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,321,368,495,1,532,U - Acuerdo de Unión Civil,Institucion,Isapre Ing Salud S.A.
+71,Alert,01-2020,28e,,3.75,6.91,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,321,368,495,1,532,U - Acuerdo de Unión Civil,Institucion,Isapre Ing Salud S.A.
+71,Alert,08-2020,28e,,3.72,3.62,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,321,368,495,1,532,U - Acuerdo de Unión Civil,Institucion,Isapre Ing Salud S.A.
+71,Alert,01-2021,28e,,3.86,4.41,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,321,368,495,1,532,U - Acuerdo de Unión Civil,Institucion,Isapre Ing Salud S.A.
+71,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,321,368,495,1,532,U - Acuerdo de Unión Civil,Institucion,Isapre Ing Salud S.A.
+73,Alert,01-2019,"28a,28b",,1.37,1.37,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,416,607,107,1,704,U - Acuerdo de Unión Civil,"Hermanos, Parientes, Amigos",Sin Prevision
+73,Alert,08-2019,"28c,28d",,1.88,2.39,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,416,607,107,1,704,U - Acuerdo de Unión Civil,"Hermanos, Parientes, Amigos",Sin Prevision
+73,Alert,01-2020,28e,,2.62,4.09,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,416,607,107,1,704,U - Acuerdo de Unión Civil,"Hermanos, Parientes, Amigos",Sin Prevision
+73,Alert,08-2020,28e,,2.25,1.16,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,416,607,107,1,704,U - Acuerdo de Unión Civil,"Hermanos, Parientes, Amigos",Sin Prevision
+73,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,416,607,107,1,704,U - Acuerdo de Unión Civil,"Hermanos, Parientes, Amigos",Sin Prevision
+73,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,416,607,107,1,704,U - Acuerdo de Unión Civil,"Hermanos, Parientes, Amigos",Sin Prevision
+74,Alert,01-2019,"28a,28b",,2.4,2.4,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Municipal,607,365,252,2,612,D - Divorciado,Otros parientes,Fonasa
+74,Alert,08-2019,28c,,3.3,4.2,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Municipal,607,365,252,2,612,D - Divorciado,Otros parientes,Fonasa
+74,No Alert,01-2020,,,4.08,5.64,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Municipal,607,365,252,2,612,D - Divorciado,Otros parientes,Fonasa
+74,No Alert,08-2020,,,4.09,4.14,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Municipal,607,365,252,2,612,D - Divorciado,Otros parientes,Fonasa
+74,Suspensión,01-2021,,,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Municipal,607,365,252,2,612,D - Divorciado,Otros parientes,Fonasa
+74,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Municipal,607,365,252,2,612,D - Divorciado,Otros parientes,Fonasa
+75,Alert,01-2019,"28a,28b",,2.68,2.68,201920,60 - PSU,M,No vigente,VI R. del L.B.OHiggins,Particular Pagado,710,377,308,1,623,C - Casado,Otros,Otra Institución
+75,Suspensión,08-2019,,After Alert,,,201920,60 - PSU,M,No vigente,VI R. del L.B.OHiggins,Particular Pagado,710,377,308,1,623,C - Casado,Otros,Otra Institución
+75,No Alert,01-2020,,,4.64,6.6,201920,60 - PSU,M,No vigente,VI R. del L.B.OHiggins,Particular Pagado,710,377,308,1,623,C - Casado,Otros,Otra Institución
+75,Suspensión,08-2020,,,,,201920,60 - PSU,M,No vigente,VI R. del L.B.OHiggins,Particular Pagado,710,377,308,1,623,C - Casado,Otros,Otra Institución
+75,Dropout,12-2020,,,,,201920,60 - PSU,M,No vigente,VI R. del L.B.OHiggins,Particular Pagado,710,377,308,1,623,C - Casado,Otros,Otra Institución
+78,No Alert,01-2019,,,5.72,5.72,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Particular Pagado,95,218,258,2,827,C - Casado,Institucion,Isapre Fund Salud Trab BcoEsta
+78,No Alert,08-2019,,,4.17,2.61,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Particular Pagado,95,218,258,2,827,C - Casado,Institucion,Isapre Fund Salud Trab BcoEsta
+78,No Alert,01-2020,,,4.02,3.74,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Particular Pagado,95,218,258,2,827,C - Casado,Institucion,Isapre Fund Salud Trab BcoEsta
+78,Alert,08-2020,28e,,3.56,2.16,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Particular Pagado,95,218,258,2,827,C - Casado,Institucion,Isapre Fund Salud Trab BcoEsta
+78,Alert,01-2021,28e,,3.71,4.3,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Particular Pagado,95,218,258,2,827,C - Casado,Institucion,Isapre Fund Salud Trab BcoEsta
+78,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Particular Pagado,95,218,258,2,827,C - Casado,Institucion,Isapre Fund Salud Trab BcoEsta
+79,Alert,01-2019,"28a,28b",,2.62,2.62,201920,60 - PSU,M,Vigente,I R. de Tarapaca,Particular Subvencionado,435,662,382,2,91,,Ambos Padres,Isapre Vida Tres S.A.
+79,Alert,08-2019,28c,,3.53,4.44,201920,60 - PSU,M,Vigente,I R. de Tarapaca,Particular Subvencionado,435,662,382,2,91,,Ambos Padres,Isapre Vida Tres S.A.
+79,No Alert,01-2020,,,4.05,5.09,201920,60 - PSU,M,Vigente,I R. de Tarapaca,Particular Subvencionado,435,662,382,2,91,,Ambos Padres,Isapre Vida Tres S.A.
+79,Suspensión,08-2020,,,,,201920,60 - PSU,M,Vigente,I R. de Tarapaca,Particular Subvencionado,435,662,382,2,91,,Ambos Padres,Isapre Vida Tres S.A.
+79,Alert,01-2021,28e,,3.66,2.47,201920,60 - PSU,M,Vigente,I R. de Tarapaca,Particular Subvencionado,435,662,382,2,91,,Ambos Padres,Isapre Vida Tres S.A.
+79,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,I R. de Tarapaca,Particular Subvencionado,435,662,382,2,91,,Ambos Padres,Isapre Vida Tres S.A.
+80,Alert,01-2019,"28a,28b",,2.52,2.52,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,292,585,696,1,87,D - Divorciado,Solo (Independiente),Isapre Colmena Golden Cross SA
+80,Alert,08-2019,"28c,28d",,3.62,4.71,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,292,585,696,1,87,D - Divorciado,Solo (Independiente),Isapre Colmena Golden Cross SA
+80,No Alert,01-2020,,,4.72,6.92,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,292,585,696,1,87,D - Divorciado,Solo (Independiente),Isapre Colmena Golden Cross SA
+80,Suspensión,08-2020,,,,,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,292,585,696,1,87,D - Divorciado,Solo (Independiente),Isapre Colmena Golden Cross SA
+80,Suspensión,01-2021,,,,,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,292,585,696,1,87,D - Divorciado,Solo (Independiente),Isapre Colmena Golden Cross SA
+80,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,292,585,696,1,87,D - Divorciado,Solo (Independiente),Isapre Colmena Golden Cross SA
+81,Alert,01-2019,"28a,28b",,1.36,1.36,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,406,230,256,2,33,U - Acuerdo de Unión Civil,Otros,Isapre San Lorenzo Ltda.
+81,Alert,08-2019,"28c,28d",,3.4,5.43,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,406,230,256,2,33,U - Acuerdo de Unión Civil,Otros,Isapre San Lorenzo Ltda.
+81,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,406,230,256,2,33,U - Acuerdo de Unión Civil,Otros,Isapre San Lorenzo Ltda.
+81,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,406,230,256,2,33,U - Acuerdo de Unión Civil,Otros,Isapre San Lorenzo Ltda.
+81,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,406,230,256,2,33,U - Acuerdo de Unión Civil,Otros,Isapre San Lorenzo Ltda.
+81,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Subvencionado,406,230,256,2,33,U - Acuerdo de Unión Civil,Otros,Isapre San Lorenzo Ltda.
+82,Suspensión,01-2019,,,,,201920,60 - PSU,M,No vigente,VII R. del Maule,Particular Subvencionado,324,152,159,2,657,C - Casado,"Hermanos, Parientes, Amigos",
+82,Dropout,07-2019,,,,,201920,60 - PSU,M,No vigente,VII R. del Maule,Particular Subvencionado,324,152,159,2,657,C - Casado,"Hermanos, Parientes, Amigos",
+83,Alert,01-2019,"28a,28b",,3.72,3.72,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Pagado,289,58,781,2,49,D - Divorciado,Solo,
+83,Alert,08-2019,"28c,28d",,3.6,3.47,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Pagado,289,58,781,2,49,D - Divorciado,Solo,
+83,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Pagado,289,58,781,2,49,D - Divorciado,Solo,
+83,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Pagado,289,58,781,2,49,D - Divorciado,Solo,
+83,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Pagado,289,58,781,2,49,D - Divorciado,Solo,
+83,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XII R. de Magallanes y La Anta,Particular Pagado,289,58,781,2,49,D - Divorciado,Solo,
+84,Alert,01-2019,"28a,28b",,2.65,2.65,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Municipal,404,639,85,1,348,C - Casado,Solo,Isapre Ferrosalud S.A.
+84,No Alert,08-2019,,,4.75,6.86,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Municipal,404,639,85,1,348,C - Casado,Solo,Isapre Ferrosalud S.A.
+84,Suspensión,01-2020,,,,,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Municipal,404,639,85,1,348,C - Casado,Solo,Isapre Ferrosalud S.A.
+84,No Alert,08-2020,,,4.1,2.78,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Municipal,404,639,85,1,348,C - Casado,Solo,Isapre Ferrosalud S.A.
+84,No Alert,01-2021,,,4.3,4.93,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Municipal,404,639,85,1,348,C - Casado,Solo,Isapre Ferrosalud S.A.
+84,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,V R. de Valparaíso,Municipal,404,639,85,1,348,C - Casado,Solo,Isapre Ferrosalud S.A.
+85,Alert,01-2019,"28a,28b",,2.98,2.98,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,654,734,22,1,593,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+85,Suspensión,08-2019,,After Alert,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,654,734,22,1,593,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+85,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,654,734,22,1,593,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+85,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,654,734,22,1,593,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+85,No Alert,01-2021,,,4.51,6.04,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,654,734,22,1,593,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+85,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,II R. de Antofagasta,Particular Subvencionado,654,734,22,1,593,U - Acuerdo de Unión Civil,Solo (Independiente),Isapre Banmedica S.A.
+86,Alert,01-2019,"28a,28b",,1.74,1.74,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,559,5,754,2,428,C - Casado,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+86,Alert,08-2019,"28c,28d",,2.27,2.8,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,559,5,754,2,428,C - Casado,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+86,Alert,01-2020,28e,,1.97,1.36,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,559,5,754,2,428,C - Casado,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+86,Alert,08-2020,28e,,2.98,6.02,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,559,5,754,2,428,C - Casado,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+86,Alert,01-2021,28e,,3.48,5.48,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,559,5,754,2,428,C - Casado,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+86,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,559,5,754,2,428,C - Casado,Ambos Padres,Isapre Fund Salud Trab BcoEsta
+87,No Alert,01-2019,,,5.23,5.23,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,343,695,640,1,176,,Otros,Isapre Colmena Golden Cross SA
+87,No Alert,08-2019,,,6.08,6.92,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,343,695,640,1,176,,Otros,Isapre Colmena Golden Cross SA
+87,No Alert,01-2020,,,5.03,2.95,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,343,695,640,1,176,,Otros,Isapre Colmena Golden Cross SA
+87,No Alert,08-2020,,,4.44,2.65,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,343,695,640,1,176,,Otros,Isapre Colmena Golden Cross SA
+87,No Alert,01-2021,,,4.14,2.96,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,343,695,640,1,176,,Otros,Isapre Colmena Golden Cross SA
+87,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XV R. de Arica y Parinacota,Particular Pagado,343,695,640,1,176,,Otros,Isapre Colmena Golden Cross SA
+88,Alert,01-2019,"28a,28b",,2.99,2.99,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,800,85,451,1,386,,,Isapre Rio Blanco Ltda.
+88,No Alert,08-2019,,,4.03,5.06,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,800,85,451,1,386,,,Isapre Rio Blanco Ltda.
+88,Alert,01-2020,28e,,3.94,3.78,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,800,85,451,1,386,,,Isapre Rio Blanco Ltda.
+88,Alert,08-2020,28e,,3.24,1.14,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,800,85,451,1,386,,,Isapre Rio Blanco Ltda.
+88,Alert,01-2021,28e,,2.88,1.45,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,800,85,451,1,386,,,Isapre Rio Blanco Ltda.
+88,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,VII R. del Maule,Municipal,800,85,451,1,386,,,Isapre Rio Blanco Ltda.
+89,No Alert,01-2019,,,5.14,5.14,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,775,458,693,2,820,,El Conyuge,Isapre Rio Blanco Ltda.
+89,Alert,08-2019,"28c,28d",,3.51,1.88,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,775,458,693,2,820,,El Conyuge,Isapre Rio Blanco Ltda.
+89,Alert,01-2020,28e,,3.75,4.24,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,775,458,693,2,820,,El Conyuge,Isapre Rio Blanco Ltda.
+89,No Alert,08-2020,,,4.25,5.73,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,775,458,693,2,820,,El Conyuge,Isapre Rio Blanco Ltda.
+89,Alert,01-2021,28e,,3.9,2.5,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,775,458,693,2,820,,El Conyuge,Isapre Rio Blanco Ltda.
+89,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,No tiene,Particular Pagado,775,458,693,2,820,,El Conyuge,Isapre Rio Blanco Ltda.
+92,Alert,01-2019,"28a,28b",,3.34,3.34,201920,60 - PSU,M,Vigente,,Particular Subvencionado,121,406,317,1,888,S - Soltero,El Conyuge,Isapre Chuquicamata
+92,Alert,08-2019,"28c,28d",,3.23,3.13,201920,60 - PSU,M,Vigente,,Particular Subvencionado,121,406,317,1,888,S - Soltero,El Conyuge,Isapre Chuquicamata
+92,No Alert,01-2020,,,4.23,6.23,201920,60 - PSU,M,Vigente,,Particular Subvencionado,121,406,317,1,888,S - Soltero,El Conyuge,Isapre Chuquicamata
+92,Alert,08-2020,28e,,3.77,2.37,201920,60 - PSU,M,Vigente,,Particular Subvencionado,121,406,317,1,888,S - Soltero,El Conyuge,Isapre Chuquicamata
+92,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,M,Vigente,,Particular Subvencionado,121,406,317,1,888,S - Soltero,El Conyuge,Isapre Chuquicamata
+92,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,,Particular Subvencionado,121,406,317,1,888,S - Soltero,El Conyuge,Isapre Chuquicamata
+93,Alert,01-2019,"28a,28b",,3.38,3.38,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,216,99,424,2,549,U - Acuerdo de Unión Civil,Uno De Los Padres,Isapre Consalud
+93,Alert,08-2019,28c,,3.97,4.56,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,216,99,424,2,549,U - Acuerdo de Unión Civil,Uno De Los Padres,Isapre Consalud
+93,Alert,01-2020,28e,,3.11,1.38,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,216,99,424,2,549,U - Acuerdo de Unión Civil,Uno De Los Padres,Isapre Consalud
+93,Alert,08-2020,28e,,2.85,2.06,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,216,99,424,2,549,U - Acuerdo de Unión Civil,Uno De Los Padres,Isapre Consalud
+93,Alert,01-2021,28e,,3.31,5.17,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,216,99,424,2,549,U - Acuerdo de Unión Civil,Uno De Los Padres,Isapre Consalud
+93,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,216,99,424,2,549,U - Acuerdo de Unión Civil,Uno De Los Padres,Isapre Consalud
+94,Alert,01-2019,"28a,28b",,2.15,2.15,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Municipal,143,126,158,2,483,U - Acuerdo de Unión Civil,El Conyuge,Isapre Consalud S.A.
+94,Alert,08-2019,"28c,28d",,1.58,1.02,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Municipal,143,126,158,2,483,U - Acuerdo de Unión Civil,El Conyuge,Isapre Consalud S.A.
+94,Alert,01-2020,28e,,1.42,1.1,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Municipal,143,126,158,2,483,U - Acuerdo de Unión Civil,El Conyuge,Isapre Consalud S.A.
+94,Alert,08-2020,28e,,1.72,2.61,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Municipal,143,126,158,2,483,U - Acuerdo de Unión Civil,El Conyuge,Isapre Consalud S.A.
+94,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Municipal,143,126,158,2,483,U - Acuerdo de Unión Civil,El Conyuge,Isapre Consalud S.A.
+94,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,II R. de Antofagasta,Municipal,143,126,158,2,483,U - Acuerdo de Unión Civil,El Conyuge,Isapre Consalud S.A.
+96,Alert,01-2019,"28a,28b",,2.97,2.97,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,690,719,506,2,447,,Solo (Independiente),Isapre San Lorenzo Ltda.
+96,Alert,08-2019,28c,,3.55,4.13,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,690,719,506,2,447,,Solo (Independiente),Isapre San Lorenzo Ltda.
+96,No Alert,01-2020,,,4.07,5.1,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,690,719,506,2,447,,Solo (Independiente),Isapre San Lorenzo Ltda.
+96,Alert,08-2020,28e,,3.43,1.54,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,690,719,506,2,447,,Solo (Independiente),Isapre San Lorenzo Ltda.
+96,No Alert,01-2021,,,4.14,6.95,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,690,719,506,2,447,,Solo (Independiente),Isapre San Lorenzo Ltda.
+96,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,VI R. del L.B.OHiggins,Particular Subvencionado,690,719,506,2,447,,Solo (Independiente),Isapre San Lorenzo Ltda.
+98,Suspensión,01-2019,,,,,201920,60 - PSU,M,Vigente,VII R. del Maule,Particular Subvencionado,562,760,170,2,206,C - Casado,,Isapre Consalud S.A.
+98,Suspensión,08-2019,,,,,201920,60 - PSU,M,Vigente,VII R. del Maule,Particular Subvencionado,562,760,170,2,206,C - Casado,,Isapre Consalud S.A.
+98,Suspensión,01-2020,,,,,201920,60 - PSU,M,Vigente,VII R. del Maule,Particular Subvencionado,562,760,170,2,206,C - Casado,,Isapre Consalud S.A.
+98,No Alert,08-2020,,,4.49,4.49,201920,60 - PSU,M,Vigente,VII R. del Maule,Particular Subvencionado,562,760,170,2,206,C - Casado,,Isapre Consalud S.A.
+98,No Alert,01-2021,,,4.77,5.05,201920,60 - PSU,M,Vigente,VII R. del Maule,Particular Subvencionado,562,760,170,2,206,C - Casado,,Isapre Consalud S.A.
+98,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,VII R. del Maule,Particular Subvencionado,562,760,170,2,206,C - Casado,,Isapre Consalud S.A.
+99,Alert,01-2019,"28a,28b",,3.21,3.21,201920,60 - PSU,M,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,354,167,2,386,D - Divorciado,Otros parientes,Sin Prevision
+99,Alert,08-2019,"28c,28d",,2.16,1.11,201920,60 - PSU,M,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,354,167,2,386,D - Divorciado,Otros parientes,Sin Prevision
+99,Alert,01-2020,28e,,2.98,4.62,201920,60 - PSU,M,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,354,167,2,386,D - Divorciado,Otros parientes,Sin Prevision
+99,Alert,08-2020,28e,,2.75,2.06,201920,60 - PSU,M,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,354,167,2,386,D - Divorciado,Otros parientes,Sin Prevision
+99,Alert,01-2021,28e,,2.71,2.57,201920,60 - PSU,M,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,354,167,2,386,D - Divorciado,Otros parientes,Sin Prevision
+99,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,IX R. de la Araucanía,Particular Subvencionado,15,354,167,2,386,D - Divorciado,Otros parientes,Sin Prevision
+100,Alert,01-2019,"28a,28b",,1.59,1.59,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,605,532,700,2,463,C - Casado,No Tiene,Isapre Colmena Golden Cross SA
+100,Alert,08-2019,28c,,3.67,5.75,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,605,532,700,2,463,C - Casado,No Tiene,Isapre Colmena Golden Cross SA
+100,No Alert,01-2020,,,4.55,6.32,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,605,532,700,2,463,C - Casado,No Tiene,Isapre Colmena Golden Cross SA
+100,No Alert,08-2020,,,4.87,5.83,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,605,532,700,2,463,C - Casado,No Tiene,Isapre Colmena Golden Cross SA
+100,Suspensión,01-2021,,,,,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,605,532,700,2,463,C - Casado,No Tiene,Isapre Colmena Golden Cross SA
+100,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Municipal,605,532,700,2,463,C - Casado,No Tiene,Isapre Colmena Golden Cross SA
+17,No Alert,01-2019,,,5.38,5.38,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,637,366,314,1,8,,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+17,Alert,08-2019,28c,,3.83,2.27,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,637,366,314,1,8,,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+17,No Alert,01-2020,,,4.6,6.14,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,637,366,314,1,8,,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+17,No Alert,08-2020,,,5.08,6.55,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,637,366,314,1,8,,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+17,No Alert,01-2021,,,4.79,3.62,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,637,366,314,1,8,,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+17,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XIII R. Metropolitana,Particular Pagado,637,366,314,1,8,,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+19,Alert,01-2019,"28a,28b",,3.1,3.1,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,317,788,418,1,149,C - Casado,Hogar de menores,Sin Prevision
+19,Alert,08-2019,28d,,4.31,5.52,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,317,788,418,1,149,C - Casado,Hogar de menores,Sin Prevision
+19,No Alert,01-2020,,,4.89,6.04,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,317,788,418,1,149,C - Casado,Hogar de menores,Sin Prevision
+19,No Alert,08-2020,,,5.16,5.98,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,317,788,418,1,149,C - Casado,Hogar de menores,Sin Prevision
+19,No Alert,01-2021,,,4.41,1.39,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,317,788,418,1,149,C - Casado,Hogar de menores,Sin Prevision
+19,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,III R. de Atacama,Particular Subvencionado,317,788,418,1,149,C - Casado,Hogar de menores,Sin Prevision
+21,Alert,01-2019,"28a,28b",,3.15,3.15,201920,60 - PSU,M,No vigente,XVI R. de Ñuble,Municipal,627,418,285,2,136,C - Casado,"Con pareja (conyuge, conviv.)",Isapre San Lorenzo Ltda.
+21,Suspensión,08-2019,,After Alert,,,201920,60 - PSU,M,No vigente,XVI R. de Ñuble,Municipal,627,418,285,2,136,C - Casado,"Con pareja (conyuge, conviv.)",Isapre San Lorenzo Ltda.
+21,Alert,01-2020,"28c,28d",,3.63,4.12,201920,60 - PSU,M,No vigente,XVI R. de Ñuble,Municipal,627,418,285,2,136,C - Casado,"Con pareja (conyuge, conviv.)",Isapre San Lorenzo Ltda.
+21,Alert,08-2020,28e,,3.87,4.34,201920,60 - PSU,M,No vigente,XVI R. de Ñuble,Municipal,627,418,285,2,136,C - Casado,"Con pareja (conyuge, conviv.)",Isapre San Lorenzo Ltda.
+21,Expelled,12-2020,,,,,201920,60 - PSU,M,No vigente,XVI R. de Ñuble,Municipal,627,418,285,2,136,C - Casado,"Con pareja (conyuge, conviv.)",Isapre San Lorenzo Ltda.
+27,Alert,01-2019,"28a,28b",,3.32,3.32,201920,60 - PSU,M,Vigente,III R. de Atacama,Municipal,225,459,655,1,375,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+27,Alert,08-2019,"28c,28d",,3.18,3.05,201920,60 - PSU,M,Vigente,III R. de Atacama,Municipal,225,459,655,1,375,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+27,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,M,Vigente,III R. de Atacama,Municipal,225,459,655,1,375,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+27,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,M,Vigente,III R. de Atacama,Municipal,225,459,655,1,375,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+27,Alert,01-2021,28e,,2.63,1.53,201920,60 - PSU,M,Vigente,III R. de Atacama,Municipal,225,459,655,1,375,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+27,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,III R. de Atacama,Municipal,225,459,655,1,375,U - Acuerdo de Unión Civil,"Con pareja (conyuge, conviv.)",Isapre Fund Salud Trab BcoEsta
+30,No Alert,01-2019,,,4.11,4.11,201920,60 - PSU,M,Vigente,,Particular Pagado,625,250,15,2,383,S - Soltero,,Capredena
+30,No Alert,08-2019,,,5.04,5.98,201920,60 - PSU,M,Vigente,,Particular Pagado,625,250,15,2,383,S - Soltero,,Capredena
+30,Suspensión,01-2020,,,,,201920,60 - PSU,M,Vigente,,Particular Pagado,625,250,15,2,383,S - Soltero,,Capredena
+30,No Alert,08-2020,,,4.03,2.0,201920,60 - PSU,M,Vigente,,Particular Pagado,625,250,15,2,383,S - Soltero,,Capredena
+30,No Alert,01-2021,,,4.27,4.98,201920,60 - PSU,M,Vigente,,Particular Pagado,625,250,15,2,383,S - Soltero,,Capredena
+30,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,,Particular Pagado,625,250,15,2,383,S - Soltero,,Capredena
+35,Alert,01-2019,"28a,28b",,3.38,3.38,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,604,685,714,2,835,U - Acuerdo de Unión Civil,No Tiene,Otra Institución
+35,Suspensión,08-2019,,After Alert,,,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,604,685,714,2,835,U - Acuerdo de Unión Civil,No Tiene,Otra Institución
+35,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,604,685,714,2,835,U - Acuerdo de Unión Civil,No Tiene,Otra Institución
+35,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,604,685,714,2,835,U - Acuerdo de Unión Civil,No Tiene,Otra Institución
+35,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,604,685,714,2,835,U - Acuerdo de Unión Civil,No Tiene,Otra Institución
+35,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,604,685,714,2,835,U - Acuerdo de Unión Civil,No Tiene,Otra Institución
+39,Alert,01-2019,"28a,28b",,1.56,1.56,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,21,404,443,1,665,C - Casado,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+39,Alert,08-2019,"28c,28d",,2.09,2.62,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,21,404,443,1,665,C - Casado,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+39,Alert,01-2020,28e,,2.53,3.41,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,21,404,443,1,665,C - Casado,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+39,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,21,404,443,1,665,C - Casado,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+39,Alert,01-2021,28e,,2.74,3.38,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,21,404,443,1,665,C - Casado,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+39,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,IV R. de Coquimbo,Particular Subvencionado,21,404,443,1,665,C - Casado,"Con pareja (conyuge, conviv.)",Isapre Vida Tres S.A.
+40,Alert,01-2019,"28a,28b",,1.2,1.2,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,554,717,112,1,68,U - Acuerdo de Unión Civil,Solo,Sin Prevision
+40,Alert,08-2019,28c,,3.02,4.85,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,554,717,112,1,68,U - Acuerdo de Unión Civil,Solo,Sin Prevision
+40,Alert,01-2020,28e,,2.45,1.29,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,554,717,112,1,68,U - Acuerdo de Unión Civil,Solo,Sin Prevision
+40,Alert,08-2020,28e,,3.47,6.56,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,554,717,112,1,68,U - Acuerdo de Unión Civil,Solo,Sin Prevision
+40,No Alert,01-2021,,,4.1,6.61,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,554,717,112,1,68,U - Acuerdo de Unión Civil,Solo,Sin Prevision
+40,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XI R. de Aysen del G.C.Ibañez,Particular Pagado,554,717,112,1,68,U - Acuerdo de Unión Civil,Solo,Sin Prevision
+42,Alert,01-2019,"28a,28b",,2.39,2.39,201920,60 - PSU,M,Vigente,X R. de los Lagos,Municipal,598,214,509,2,850,C - Casado,Uno De Los Padres,Fonasa
+42,Suspensión,08-2019,,After Alert,,,201920,60 - PSU,M,Vigente,X R. de los Lagos,Municipal,598,214,509,2,850,C - Casado,Uno De Los Padres,Fonasa
+42,Suspensión,01-2020,,After Alert,,,201920,60 - PSU,M,Vigente,X R. de los Lagos,Municipal,598,214,509,2,850,C - Casado,Uno De Los Padres,Fonasa
+42,Alert,08-2020,"28c,28d",,3.8,5.22,201920,60 - PSU,M,Vigente,X R. de los Lagos,Municipal,598,214,509,2,850,C - Casado,Uno De Los Padres,Fonasa
+42,Alert,01-2021,28e,,3.1,1.68,201920,60 - PSU,M,Vigente,X R. de los Lagos,Municipal,598,214,509,2,850,C - Casado,Uno De Los Padres,Fonasa
+42,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,X R. de los Lagos,Municipal,598,214,509,2,850,C - Casado,Uno De Los Padres,Fonasa
+49,Alert,01-2019,"28a,28b",,3.93,3.93,201920,60 - PSU,M,No vigente,XII R. de Magallanes y La Anta,Particular Pagado,96,308,519,1,69,C - Casado,Otros parientes,Fonasa
+49,Alert,08-2019,"28c,28d",,2.94,1.95,201920,60 - PSU,M,No vigente,XII R. de Magallanes y La Anta,Particular Pagado,96,308,519,1,69,C - Casado,Otros parientes,Fonasa
+49,Alert,01-2020,28e,,3.41,4.36,201920,60 - PSU,M,No vigente,XII R. de Magallanes y La Anta,Particular Pagado,96,308,519,1,69,C - Casado,Otros parientes,Fonasa
+49,Expelled,07-2020,,,,,201920,60 - PSU,M,No vigente,XII R. de Magallanes y La Anta,Particular Pagado,96,308,519,1,69,C - Casado,Otros parientes,Fonasa
+52,Alert,01-2019,"28a,28b",,2.36,2.36,201920,60 - PSU,M,No vigente,III R. de Atacama,Municipal,251,252,604,2,477,,No Tiene,Sin Prevision
+52,Suspensión,08-2019,,After Alert,,,201920,60 - PSU,M,No vigente,III R. de Atacama,Municipal,251,252,604,2,477,,No Tiene,Sin Prevision
+52,Alert,01-2020,"28c,28d",,1.98,1.6,201920,60 - PSU,M,No vigente,III R. de Atacama,Municipal,251,252,604,2,477,,No Tiene,Sin Prevision
+52,Expelled,07-2020,,,,,201920,60 - PSU,M,No vigente,III R. de Atacama,Municipal,251,252,604,2,477,,No Tiene,Sin Prevision
+55,Suspensión,01-2019,,,,,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,106,515,158,1,577,S - Soltero,Solo con mi padre,Isapre Vida Tres S.A.
+55,Alert,08-2019,"28a,28b",,2.89,2.89,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,106,515,158,1,577,S - Soltero,Solo con mi padre,Isapre Vida Tres S.A.
+55,Alert,01-2020,"28c,28d",,3.06,3.23,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,106,515,158,1,577,S - Soltero,Solo con mi padre,Isapre Vida Tres S.A.
+55,Alert,08-2020,28e,,3.21,3.5,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,106,515,158,1,577,S - Soltero,Solo con mi padre,Isapre Vida Tres S.A.
+55,Suspensión,01-2021,,After Alert,,,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,106,515,158,1,577,S - Soltero,Solo con mi padre,Isapre Vida Tres S.A.
+55,Expelled,07-2021,,,,,201920,60 - PSU,M,No vigente,IX R. de la Araucanía,Particular Subvencionado,106,515,158,1,577,S - Soltero,Solo con mi padre,Isapre Vida Tres S.A.
+56,Suspensión,01-2019,,,,,201920,60 - PSU,F,No vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,537,177,416,1,423,S - Soltero,No Tiene,Otra Institución
+56,No Alert,08-2019,,,4.42,4.42,201920,60 - PSU,F,No vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,537,177,416,1,423,S - Soltero,No Tiene,Otra Institución
+56,Expelled,12-2019,,,,,201920,60 - PSU,F,No vigente,XII R. de Magallanes y La Anta,Particular Subvencionado,537,177,416,1,423,S - Soltero,No Tiene,Otra Institución
+58,Alert,01-2019,"28a,28b",,2.05,2.05,201920,60 - PSU,M,Vigente,XVI R. de Ñuble,Particular Subvencionado,754,729,385,1,301,S - Soltero,Institucion,Isapre Rio Blanco Ltda.
+58,Alert,08-2019,28c,,3.31,4.57,201920,60 - PSU,M,Vigente,XVI R. de Ñuble,Particular Subvencionado,754,729,385,1,301,S - Soltero,Institucion,Isapre Rio Blanco Ltda.
+58,Alert,01-2020,28e,,2.91,2.11,201920,60 - PSU,M,Vigente,XVI R. de Ñuble,Particular Subvencionado,754,729,385,1,301,S - Soltero,Institucion,Isapre Rio Blanco Ltda.
+58,Alert,08-2020,28e,,2.93,2.98,201920,60 - PSU,M,Vigente,XVI R. de Ñuble,Particular Subvencionado,754,729,385,1,301,S - Soltero,Institucion,Isapre Rio Blanco Ltda.
+58,Alert,01-2021,28e,,3.49,5.74,201920,60 - PSU,M,Vigente,XVI R. de Ñuble,Particular Subvencionado,754,729,385,1,301,S - Soltero,Institucion,Isapre Rio Blanco Ltda.
+58,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,XVI R. de Ñuble,Particular Subvencionado,754,729,385,1,301,S - Soltero,Institucion,Isapre Rio Blanco Ltda.
+59,Alert,01-2019,"28a,28b",,2.21,2.21,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,543,633,29,2,112,,Uno De Los Padres,Isapre San Lorenzo Ltda.
+59,No Alert,08-2019,,,4.58,6.94,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,543,633,29,2,112,,Uno De Los Padres,Isapre San Lorenzo Ltda.
+59,Suspensión,01-2020,,,,,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,543,633,29,2,112,,Uno De Los Padres,Isapre San Lorenzo Ltda.
+59,No Alert,08-2020,,,5.36,6.94,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,543,633,29,2,112,,Uno De Los Padres,Isapre San Lorenzo Ltda.
+59,No Alert,01-2021,,,5.46,5.74,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,543,633,29,2,112,,Uno De Los Padres,Isapre San Lorenzo Ltda.
+59,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,X R. de los Lagos,Particular Subvencionado,543,633,29,2,112,,Uno De Los Padres,Isapre San Lorenzo Ltda.
+70,Alert,01-2019,"28a,28b",,3.19,3.19,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,228,691,101,2,33,S - Soltero,Con ambos padres,Isapre Consalud
+70,Alert,08-2019,"28c,28d",,3.0,2.82,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,228,691,101,2,33,S - Soltero,Con ambos padres,Isapre Consalud
+70,No Alert,01-2020,,,4.25,6.74,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,228,691,101,2,33,S - Soltero,Con ambos padres,Isapre Consalud
+70,No Alert,08-2020,,,4.45,5.05,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,228,691,101,2,33,S - Soltero,Con ambos padres,Isapre Consalud
+70,Suspensión,01-2021,,,,,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,228,691,101,2,33,S - Soltero,Con ambos padres,Isapre Consalud
+70,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,228,691,101,2,33,S - Soltero,Con ambos padres,Isapre Consalud
+72,Suspensión,01-2019,,,,,201920,60 - PSU,F,No vigente,XV R. de Arica y Parinacota,Particular Subvencionado,767,539,499,1,382,U - Acuerdo de Unión Civil,El Conyuge,Isapre Fund Salud Trab BcoEsta
+72,Suspensión,08-2019,,,,,201920,60 - PSU,F,No vigente,XV R. de Arica y Parinacota,Particular Subvencionado,767,539,499,1,382,U - Acuerdo de Unión Civil,El Conyuge,Isapre Fund Salud Trab BcoEsta
+72,Dropout,12-2019,,,,,201920,60 - PSU,F,No vigente,XV R. de Arica y Parinacota,Particular Subvencionado,767,539,499,1,382,U - Acuerdo de Unión Civil,El Conyuge,Isapre Fund Salud Trab BcoEsta
+76,Alert,01-2019,"28a,28b",,1.65,1.65,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,780,603,57,2,188,C - Casado,Solo con mi padre,Isapre San Lorenzo Ltda.
+76,Alert,08-2019,28c,,2.91,4.16,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,780,603,57,2,188,C - Casado,Solo con mi padre,Isapre San Lorenzo Ltda.
+76,Alert,01-2020,28e,,3.08,3.44,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,780,603,57,2,188,C - Casado,Solo con mi padre,Isapre San Lorenzo Ltda.
+76,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,780,603,57,2,188,C - Casado,Solo con mi padre,Isapre San Lorenzo Ltda.
+76,Alert,01-2021,28e,,3.21,3.58,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,780,603,57,2,188,C - Casado,Solo con mi padre,Isapre San Lorenzo Ltda.
+76,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Subvencionado,780,603,57,2,188,C - Casado,Solo con mi padre,Isapre San Lorenzo Ltda.
+77,Alert,01-2019,"28a,28b",,3.2,3.2,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Municipal,509,120,528,2,54,C - Casado,,Isapre Fund Salud Trab BcoEsta
+77,Alert,08-2019,"28c,28d",,3.42,3.65,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Municipal,509,120,528,2,54,C - Casado,,Isapre Fund Salud Trab BcoEsta
+77,Alert,01-2020,28e,,2.96,2.02,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Municipal,509,120,528,2,54,C - Casado,,Isapre Fund Salud Trab BcoEsta
+77,Alert,08-2020,28e,,3.15,3.72,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Municipal,509,120,528,2,54,C - Casado,,Isapre Fund Salud Trab BcoEsta
+77,Expelled,12-2020,,,,,201920,60 - PSU,F,No vigente,IV R. de Coquimbo,Municipal,509,120,528,2,54,C - Casado,,Isapre Fund Salud Trab BcoEsta
+90,Suspensión,01-2019,,,,,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,120,455,327,1,855,,Hogar de menores,Isapre Chuquicamata
+90,No Alert,08-2019,,,5.43,5.43,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,120,455,327,1,855,,Hogar de menores,Isapre Chuquicamata
+90,No Alert,01-2020,,,5.3,5.17,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,120,455,327,1,855,,Hogar de menores,Isapre Chuquicamata
+90,No Alert,08-2020,,,5.59,6.16,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,120,455,327,1,855,,Hogar de menores,Isapre Chuquicamata
+90,No Alert,01-2021,,,5.49,5.2,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,120,455,327,1,855,,Hogar de menores,Isapre Chuquicamata
+90,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,I R. de Tarapaca,Particular Subvencionado,120,455,327,1,855,,Hogar de menores,Isapre Chuquicamata
+91,Alert,01-2019,"28a,28b",,3.25,3.25,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,118,364,682,1,719,D - Divorciado,Uno De Los Padres,Isapre San Lorenzo Ltda.
+91,No Alert,08-2019,,,4.88,6.5,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,118,364,682,1,719,D - Divorciado,Uno De Los Padres,Isapre San Lorenzo Ltda.
+91,No Alert,01-2020,,,5.56,6.92,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,118,364,682,1,719,D - Divorciado,Uno De Los Padres,Isapre San Lorenzo Ltda.
+91,No Alert,08-2020,,,5.35,4.72,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,118,364,682,1,719,D - Divorciado,Uno De Los Padres,Isapre San Lorenzo Ltda.
+91,No Alert,01-2021,,,5.42,5.73,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,118,364,682,1,719,D - Divorciado,Uno De Los Padres,Isapre San Lorenzo Ltda.
+91,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,XIV R. de los Rios,Municipal,118,364,682,1,719,D - Divorciado,Uno De Los Padres,Isapre San Lorenzo Ltda.
+95,No Alert,01-2019,,,5.06,5.06,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Pagado,417,32,442,2,205,U - Acuerdo de Unión Civil,No Tiene,Isapre Alemana Salud S.A.
+95,No Alert,08-2019,,,5.43,5.8,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Pagado,417,32,442,2,205,U - Acuerdo de Unión Civil,No Tiene,Isapre Alemana Salud S.A.
+95,No Alert,01-2020,,,4.44,2.47,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Pagado,417,32,442,2,205,U - Acuerdo de Unión Civil,No Tiene,Isapre Alemana Salud S.A.
+95,No Alert,08-2020,,,4.29,3.81,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Pagado,417,32,442,2,205,U - Acuerdo de Unión Civil,No Tiene,Isapre Alemana Salud S.A.
+95,Alert,01-2021,28e,,3.97,2.71,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Pagado,417,32,442,2,205,U - Acuerdo de Unión Civil,No Tiene,Isapre Alemana Salud S.A.
+95,Taking courses,07-2021,,,,,201920,60 - PSU,M,Vigente,X R. de los Lagos,Particular Pagado,417,32,442,2,205,U - Acuerdo de Unión Civil,No Tiene,Isapre Alemana Salud S.A.
+97,Alert,01-2019,"28a,28b",,2.79,2.79,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,706,397,523,2,107,C - Casado,,Isapre Ferrosalud S.A.
+97,Alert,08-2019,"28c,28d",,3.56,4.34,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,706,397,523,2,107,C - Casado,,Isapre Ferrosalud S.A.
+97,Alert,01-2020,28e,,3.42,3.14,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,706,397,523,2,107,C - Casado,,Isapre Ferrosalud S.A.
+97,Suspensión,08-2020,,After Alert,,,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,706,397,523,2,107,C - Casado,,Isapre Ferrosalud S.A.
+97,No Alert,01-2021,,,4.12,6.2,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,706,397,523,2,107,C - Casado,,Isapre Ferrosalud S.A.
+97,Taking courses,07-2021,,,,,201920,60 - PSU,F,Vigente,III R. de Atacama,Municipal,706,397,523,2,107,C - Casado,,Isapre Ferrosalud S.A.
